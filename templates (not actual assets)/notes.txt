@@ -1,3 +1,0 @@
-low enriched gets small
-high enriched gets large
-misc (like amfm and MOX) gets medium
